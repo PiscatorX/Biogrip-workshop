@@ -1,1 +1,1 @@
-# Biogrip-workshop
+# Biogrip-workshop slides and data files
